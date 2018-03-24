@@ -1,0 +1,17 @@
+X Scale: 1.0
+Y Scale: 5.0
+
+Original Function Graph Info:
+at x=-5.0393772888183594, the graph changes from - to +
+
+First Derivative Graph Info:
+at x=-9.408246002197266, the graph changes from - to +
+at x=-1.294201507568359, the graph changes from + to -
+at x=-1.5258789062486122E-7, the graph changes from - to +
+at x=1.0546467590332032, the graph changes from + to -
+
+Second Derivative Graph Info:
+at x=-1.5502275085449222, the graph changes from + to -
+at x=-1.0320976257324226, the graph changes from - to +
+at x=0.6018980407714841, the graph changes from + to -
+at x=1.480577697753906, the graph changes from - to +
